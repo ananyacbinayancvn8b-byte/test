@@ -1,0 +1,9 @@
+dict={"name":"Ananya",
+      "age":18,
+      "year":2026}
+print(dict)
+print(dict["name"])
+dict["color"]="red"
+print(dict)
+dict.pop("year")
+print(dict)
