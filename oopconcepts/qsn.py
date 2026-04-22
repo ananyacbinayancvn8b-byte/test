@@ -25,6 +25,5 @@ class Square(Shape):
         print("area",s*s)
 
 sq=Square(8)
-       
-sq.area()
+
 

@@ -7,6 +7,6 @@ print(len(z))
 g={"yak":3,"spare":7}
 print(len(g))
 
-
+#operators
 y='hey'
 print(y*3)

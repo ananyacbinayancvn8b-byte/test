@@ -10,5 +10,4 @@ plt.ylabel("Y-Axis")
 
 
 plt.grid()
-
 plt.show()
